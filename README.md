@@ -69,7 +69,7 @@ This project demonstrates a complete end-to-end web application, covering fronte
 
 ---
 
-## 📂 Project Structure (Example)
+## 📂 Project Structure
 
 Bookify/
 │
@@ -111,7 +111,3 @@ The goal of this project is to:
 - Improved UI using Bootstrap/Tailwind  
 
 ---
-
-### 🔹 Short GitHub Repo Description
-
-> **Bookify** – A PHP & MySQL based online booking system with admin panel, email confirmation, and full booking management.
