@@ -1,0 +1,18 @@
+/* General page background and text color */
+body {
+  background: #f7f9fc;
+  color: #222;
+}
+
+/* Event card image styling */
+.event-card img {
+  max-height: 200px;         /* Limit image height */
+  object-fit: cover;         /* Crop image neatly */
+  border-radius: 6px;        /* Slightly rounded corners */
+}
+
+/* Hero card (welcome section) styling */
+.card-hero {
+  border-radius: 12px;
+  padding: 20px;
+}
