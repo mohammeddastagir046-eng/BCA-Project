@@ -8,7 +8,7 @@
  */
 
 // ---------- DATABASE SETTINGS ----------
-define('DB_HOST', 'localhost');   // Database host (usually 'localhost')
+define('DB_HOST', 'localhost:3307');   // Database host (usually 'localhost')
 define('DB_USER', 'root');        // MySQL username
 define('DB_PASS', '');            // MySQL password (leave blank for XAMPP)
 define('DB_NAME', 'bookify');     // Database name
